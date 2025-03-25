@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Kim Donghyun</h1>
-<h3 align="left">Baby developer of Front-End</h3>
+<h3 align="left">Baby developer of Full-Stack</h3>
 
 - 🌱 I’m currently learning **the basis of Full-Stack develop**
 
