@@ -1,7 +1,7 @@
 <h1 align="left">Hello, I'm Kim Donghyun</h1>
-<h3 align="left">Baby developer of Full-Stack</h3>
+<h3 align="left">Junior Developer of Front-End</h3>
 
-- 🌱 I’m currently learning **the basis of Full-Stack develop**
+- 🌱 I’m currently learning **the basis of Front-End develop**
 
 - 📫 How to reach me **hyungus723@gmail.com**
 
