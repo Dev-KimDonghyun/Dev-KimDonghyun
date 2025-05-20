@@ -10,5 +10,5 @@
 
 <h3 align="left">Languages and Tools</h3>
 <div align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,html,css,javascript,typescript,tailwindcss,react,dart,flutter,firebase&theme=dark&perline=15" alt="My Skills" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,html,css,javascript,typescript,tailwindcss,react,expressjs,mongodb&theme=dark&perline=15" alt="My Skills" /></a>
 </div>
