@@ -12,15 +12,11 @@
 
 <h3 align="left">Skill Stacks</h3>
 
-- Git
-- HTML5, CSS3
-- JavaScript, TypeScript
-- TailwindCSS
-- React
-- Redux
-- ExpressJS
-- MongoDB
+<p align="left">
+  <strong>Tools:</strong> Git <br/>
+  <strong>Languages:</strong> JavaScript, TypeScript<br/>
+  <strong>Front-End:</strong> HTML, CSS, TailwindCSS, React, Redux<br/>
+  <strong>Back-End:</strong> ExpressJS, MongoDB
+</p>
 
-<br>
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,html,css,javascript,typescript,tailwindcss,react,redux,expressjs,mongodb&theme=dark&perline=10" alt="My Skills" /></a>
+<img src="https://skillicons.dev/icons?i=git,html,css,javascript,typescript,tailwindcss,react,redux,expressjs,mongodb" /><br/>
