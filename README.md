@@ -1,14 +1,26 @@
 <h1 align="left">Hello, I'm Kim Donghyun</h1>
-<h3 align="left">Junior Developer of Front-End</h3>
 
-- 🌱 I’m currently learning **the basis of Front-End develop**
+<h3 align="left">Junior Front-End Developer</h3>
 
-- 📫 How to reach me **hyungus723@gmail.com**
+- 👨🏻‍💻 I'm currently a 1st-year student majoring in Software
 
-<p align="left">
-</p>
+- 🇯🇵 My goal is to become a Front-End Developer in Japan (2028年 新卒)
 
-<h3 align="left">Languages and Tools</h3>
-<div align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,html,css,javascript,typescript,tailwindcss,react,expressjs,mongodb&theme=dark&perline=15" alt="My Skills" /></a>
-</div>
+<h3 align="left">Contact</h3>
+
+- 📫 Email: hyungus723@gmail.com
+
+<h3 align="left">Skill Stacks</h3>
+
+- Git
+- HTML5, CSS3
+- JavaScript, TypeScript
+- TailwindCSS
+- React
+- Redux
+- ExpressJS
+- MongoDB
+
+<br>
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,html,css,javascript,typescript,tailwindcss,react,redux,expressjs,mongodb&theme=dark&perline=10" alt="My Skills" /></a>
