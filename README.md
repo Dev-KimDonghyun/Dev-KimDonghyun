@@ -13,10 +13,21 @@
 <h3 align="left">Skill Stacks</h3>
 
 <p align="left">
-  <strong>Tools:</strong> Git <br/>
+  <strong>Tools:</strong> macOS, Visual Studio Code, Prettier, Git, Vite<br/>
   <strong>Languages:</strong> JavaScript, TypeScript<br/>
   <strong>Front-End:</strong> HTML, CSS, TailwindCSS, React, Redux<br/>
   <strong>Back-End:</strong> ExpressJS, MongoDB
 </p>
 
-<img src="https://skillicons.dev/icons?i=git,html,css,javascript,typescript,tailwindcss,react,redux,expressjs,mongodb" /><br/>
+<a align="left" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,typescript,tailwindcss,react,redux,expressjs,mongodb&theme=dark&perline=15" /></a>
+
+---
+
+<h3 align="left">Learning Next</h3>
+
+<p align="left">
+  <strong>Languages:</strong> C, Python<br/>
+  <strong>Back-End:</strong> NestJS, FastAPI, SQL DataBase
+</p>
+
+<a align="left" href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,python,fastapi,nestjs,mysql&theme=dark&perline=15" /></a>
